@@ -6,6 +6,17 @@
   "author": {
     "name": "Carlos"
   },
-  "keywords": ["x", "twitter", "writing", "tone", "evals", "agents"],
-  "skills": "./skills/"
+  "keywords": [
+    "x",
+    "twitter",
+    "writing",
+    "tone",
+    "evals",
+    "agents"
+  ],
+  "skills": "./skills/",
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/aisona-lab/human-x-voice",
+  "homepage": "https://github.com/aisona-lab/human-x-voice",
+  "license": "MIT"
 }
