@@ -15,7 +15,7 @@
     "agents"
   ],
   "skills": "./skills/",
-  "logo": "assets/logo.svg",
+  "logo": "assets/logo.png",
   "repository": "https://github.com/aisona-lab/human-x-voice",
   "homepage": "https://github.com/aisona-lab/human-x-voice",
   "license": "MIT"
