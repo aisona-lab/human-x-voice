@@ -1,0 +1,11 @@
+{
+  "name": "human-x-voice",
+  "displayName": "Human X Voice",
+  "version": "1.0.0",
+  "description": "Write X (Twitter) posts and replies like a real engineer: short, opinionated, sarcastic or funny when earned. No AI cadence, no engagement bait.",
+  "author": {
+    "name": "Carlos"
+  },
+  "keywords": ["x", "twitter", "writing", "tone", "evals", "agents"],
+  "skills": "./skills/"
+}
